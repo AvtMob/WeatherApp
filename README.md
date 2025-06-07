@@ -93,8 +93,8 @@ https://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=London&days=3&aqi
 ### 📱 Screenshots
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <img src="./screenshots/s1.PNG" alt="Login Screen" width="320"/>
-  <img src="./screenshots/s2.PNG" alt="Home Dashboard" width="320"/>
+  <img src="./screenshots/s1.png" alt="Login Screen" width="320"/>
+  <img src="./screenshots/s2.png" alt="Home Dashboard" width="320"/>
   <img src="./screenshots/s3.PNG" alt="Bills List" width="320"/>
   <img src="./screenshots/s4.PNG" alt="Filter bills" width="320"/>
 </div>
