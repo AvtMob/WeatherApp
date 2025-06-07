@@ -1,0 +1,70 @@
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (sdk path, API keys)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio
+captures/
+.navigation/
+
+# IntelliJ related files
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+
+# Kotlin specific
+*.kts
+
+# Compose tooling
+.metadata/
+.compose/
+
+# Cache files
+.cxx/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Windows thumbnail cache files
+Thumbs.db
+.DS_Store
+
+# Generated files
+generated/
+
+# Hilt
+/hilt/
+dagger.hilt.android.processor/
+
+# Google Services (if any)
+/google-services.json
+
+# Misc
+*.orig
